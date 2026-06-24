@@ -1,0 +1,17 @@
+{
+    "report_id": "INCIDENT-20251124_080929",
+    "timestamp_utc": "2025-11-24T08:09:29.225983+00:00",
+    "system_os": "Windows FIM Agent (Simulated)",
+    "total_breaches": 1,
+    "breach_details": {
+        "modified": [
+            {
+                "file": "important_key.txt",
+                "baseline_hash": "5cee31e4055f30f5388d8be1d934ed187e44f96e5a3876efa720d8711e36cfad",
+                "current_hash": "75dac64a9d41bb1356be52465cac33202ba3ebce718b58d9015495620a0eabd5"
+            }
+        ],
+        "added": [],
+        "deleted": []
+    }
+}
