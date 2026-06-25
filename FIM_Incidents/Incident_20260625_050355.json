@@ -1,0 +1,17 @@
+{
+    "report_id": "INCIDENT-20260625_050355",
+    "timestamp_utc": "2026-06-25T05:03:55.711614+00:00",
+    "system_os": "Windows FIM Agent (Simulated)",
+    "total_breaches": 1,
+    "breach_details": {
+        "modified": [
+            {
+                "file": "test_config.txt",
+                "baseline_hash": "e68907ebf72e26dac4669a58f5885737a76c935df24d4c1a3d66f28cc71a386f",
+                "current_hash": "fcd60c809c62d250d024788acecdc2995ffcda743d21f0c15c959d94e97e17fd"
+            }
+        ],
+        "added": [],
+        "deleted": []
+    }
+}
