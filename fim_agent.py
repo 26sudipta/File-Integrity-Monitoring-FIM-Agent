@@ -11,7 +11,7 @@ from datetime import timezone
 TARGET_DIR = Path("target_files") 
 BASELINE_FILENAME = "baseline.json"
 
-# --- M O D U L E 1 : H A S H I N G ---
+# --- M O D U L E 1 : H A S H I N G ------ 
 
 def calculate_sha256(filepath: Path) -> str:
     """Calculates the SHA256 hash of a file."""
